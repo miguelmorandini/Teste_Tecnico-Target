@@ -1,0 +1,14 @@
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao01\bin\Debug\net6.0\questao01.exe
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao01\bin\Debug\net6.0\questao01.deps.json
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao01\bin\Debug\net6.0\questao01.runtimeconfig.json
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao01\bin\Debug\net6.0\questao01.dll
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao01\bin\Debug\net6.0\questao01.pdb
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao01\obj\Debug\net6.0\questao01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao01\obj\Debug\net6.0\questao01.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao01\obj\Debug\net6.0\questao01.AssemblyInfo.cs
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao01\obj\Debug\net6.0\questao01.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao01\obj\Debug\net6.0\questao01.dll
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao01\obj\Debug\net6.0\refint\questao01.dll
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao01\obj\Debug\net6.0\questao01.pdb
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao01\obj\Debug\net6.0\questao01.genruntimeconfig.cache
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao01\obj\Debug\net6.0\ref\questao01.dll

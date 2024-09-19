@@ -1,0 +1,14 @@
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao02\bin\Debug\net6.0\questao02.exe
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao02\bin\Debug\net6.0\questao02.deps.json
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao02\bin\Debug\net6.0\questao02.runtimeconfig.json
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao02\bin\Debug\net6.0\questao02.dll
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao02\bin\Debug\net6.0\questao02.pdb
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao02\obj\Debug\net6.0\questao02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao02\obj\Debug\net6.0\questao02.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao02\obj\Debug\net6.0\questao02.AssemblyInfo.cs
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao02\obj\Debug\net6.0\questao02.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao02\obj\Debug\net6.0\questao02.dll
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao02\obj\Debug\net6.0\refint\questao02.dll
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao02\obj\Debug\net6.0\questao02.pdb
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao02\obj\Debug\net6.0\questao02.genruntimeconfig.cache
+C:\Users\migue\source\repos\Teste_Tecnico-Target\questao02\obj\Debug\net6.0\ref\questao02.dll
